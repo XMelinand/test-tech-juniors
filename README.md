@@ -14,7 +14,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-It shoudl look like this.
-
-
-[![Watch the video](https://res.cloudinary.com/dcihy0wgo/video/upload/v1661121689/Enregistrement_de_l_e%CC%81cran_2022-08-21_a%CC%80_19.25.35_hbqljd.mov)
+It shoudl look and behave like this.
+(https://res.cloudinary.com/dcihy0wgo/video/upload/v1661121689/Enregistrement_de_l_e%CC%81cran_2022-08-21_a%CC%80_19.25.35_hbqljd.mov)
