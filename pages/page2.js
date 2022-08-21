@@ -144,9 +144,9 @@ function page2(props) {
 								defaultValue={props.age? props.age : ''}
 								onChange={(e) => {
 									setAge(e.target.value);
-									console.log("yolooo", age);
 								}}
-								value={props.age? props.age : age}
+								value={age}
+
 							/>
 						</Box>
 					</div>

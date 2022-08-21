@@ -69,7 +69,7 @@ function Home(props) {
 							onChange={(e) => 
 								setFirstName(e.target.value)
 							}
-							value={props.firstName? props.firstName : firstName}
+							value={firstName}
 						/>
 						<TextField
 							sx={{
@@ -84,7 +84,7 @@ function Home(props) {
 								setLastName(e.target.value);
 								console.log('yolooo',lastName);
 							}}
-							value={props.lastName? props.lastName : lastName}
+							value={lastName}
 						/>
 					</Box>
 					<div className={{ paddingTop: 300 }}>
